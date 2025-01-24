@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Prashant, a graduate student at Stevens Institute of Technology.
+- 👋 Hi, I’m Prashant, a graduate from Stevens Institute of Technology.
 - 👀 I’m interested in applications of AI.
-- 🌱 I’m currently learning ML Algorithms, Data Structures, C++, and Algorithms for data compression.
+- 🌱 I’m currently learning ML Algorithms, Data Structures, Time-Series, and GenAI.
 - 💞️ I’m looking to collaborate on ideas of the future.
-- 📫 Email: pkumar14@stevens.edu
+- 📫 Email: kprashant.iisc@gmail.com
 
 <!---
 ley-man/ley-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
